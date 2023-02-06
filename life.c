@@ -9,11 +9,11 @@
 
 typedef struct
 {       
-        char ***      old_m;
-        char ***      new_m;
-		size_t      start;
-		size_t      end;
-		size_t      columns;
+        char ***    old_m;
+        char ***    new_m;
+	size_t      start;
+	size_t      end;
+	size_t      columns;
         size_t      rows;
 } my_struct;
 
